@@ -1,0 +1,77 @@
+================================================================================
+Ergänzende Besondere Geschäftsbedingungen für das symplr Ads SDK
+================================================================================
+
+Diese ergänzenden besonderen Geschäftsbedingungen für das symplr Ads SDK („SDK-Bedingungen“) regeln die Überlassung und Nutzung des symplr Ads SDK zur Monetarisierung von Werbeflächen in internetfähigen Anwendungen (Apps) des Publishers. Sie gelten zusätzlich zu den Allgemeinen Geschäftsbedingungen der mso digital GmbH & Co. KG („AGB“) und den Ergänzenden Besonderen Geschäftsbedingungen für symplr („Besondere Geschäftsbedingungen“).
+
+--------------------------------------------------------------------------------
+1. Geltungsbereich
+--------------------------------------------------------------------------------
+
+1.1 Diese SDK-Bedingungen gelten für die Überlassung und Nutzung des symplr Ads SDK („SDK“) zur Einbindung von Werbemitteln in vom Publisher betriebene internetfähige Anwendungen („Publisher-App“). Sie ergänzen die AGB und die besonderen Geschäftsbedingungen für symplr.
+
+1.2 Bei Widersprüchen zwischen diesen SDK-Bedingungen und den AGB oder den Besonderen Geschäftsbedingungen gehen die AGB und die Besonderen Geschäftsbedingungen vor. Individuell getroffene Vereinbarungen der Parteien gehen vor.
+
+1.3 Haftung und Verjährung (Ziffer 7 der AGB), Mängel (Ziffer 8 der AGB), Laufzeit und Kündigung (Ziffer 11 der AGB) sowie anwendbares Recht und Gerichtsstand (Ziffer 14 der AGB) richten sich ausschließlich nach den AGB und den Besonderen Geschäftsbedingungen. Diese SDK-Bedingungen treffen hierzu keine eigenständige Regelung.
+
+--------------------------------------------------------------------------------
+2. Lizenzgewährung
+--------------------------------------------------------------------------------
+
+2.1  mso digital räumt dem Publisher für die Laufzeit des jeweiligen Vertrages eine beschränkte, nicht ausschließliche, nicht übertragbare und nicht unterlizenzierbare Lizenz ein, das SDK ausschließlich innerhalb der eigenen Publisher-App gemäß den technischen Spezifikationen, Integrationsrichtlinien und Dokumentationen von mso digital zu integrieren und zu nutzen.
+
+2.2  Die Lizenz endet mit Beendigung oder Ablauf des Vertrages nach Maßgabe von Ziffer 11 der AGB. Sämtliche Rechte am SDK verbleiben nach Maßgabe von Ziffer 5 dieser SDK-Bedingungen bei mso digital.
+
+--------------------------------------------------------------------------------
+3. Technische Integration und Kennzeichnung
+--------------------------------------------------------------------------------
+
+3.1  Der Publisher integriert das SDK sowie alle erforderlichen Komponenten und Module (insbesondere AdViews/Placements) vollständig und korrekt gemäß den Vorgaben von mso digital. Ziffer 3.1 der Besonderen Geschäftsbedingungen gilt für die Publisher-App entsprechend.
+
+3.2  Über das SDK ausgelieferte Werbeplatzierungen sind so zu integrieren und zu kennzeichnen, dass sie für Endnutzer und Dritte eindeutig als Werbung erkennbar sind, in Übereinstimmung mit den geltenden Werbestandards und rechtlichen Anforderungen.
+
+--------------------------------------------------------------------------------
+4. Nutzungsbeschränkungen und Schutz des SDK
+--------------------------------------------------------------------------------
+
+4.1  Der Publisher darf das SDK ausschließlich in dem im jeweiligen Vertrag vereinbarten Umfang implementieren und nutzen.
+
+4.2  Ohne vorherige schriftliche Zustimmung von mso digital ist dem Publisher untersagt:
+
+     (a) das SDK oder Teile davon zu verändern, anzupassen, zu übersetzen oder abgeleitete Werke daraus zu erstellen;
+     (b) das SDK oder Teile davon über das für die vereinbarte Integration notwendige Maß hinaus zu kopieren oder zu vervielfältigen;
+     (c) das SDK zu übertragen, unterzulizenzieren, zu verkaufen, zu vermieten, zu verleihen oder 
+Dritten auf sonstige Weise zur eigenen Nutzung zu       überlassen;
+     (d) das SDK oder dessen Quellcode an unbefugte Dritte zu veröffentlichen, weiterzugeben oder offenzulegen;
+     (e) das SDK zurückzuentwickeln (Reverse Engineering), zu dekompilieren oder zu disassemblieren, soweit dies nicht nach zwingendem gesetzlichem Recht — insbesondere §§ 69d, 69e UrhG — gestattet ist. 
+
+--------------------------------------------------------------------------------
+5. Rechte am SDK
+--------------------------------------------------------------------------------
+
+5.1  Sämtliche Rechte, Titel und Ansprüche am SDK, einschließlich aller darin enthaltenen Urheber-, Leistungsschutz- und sonstigen gewerblichen Schutzrechte, verbleiben ausschließlich bei der mso digital GmbH & Co. KG. Diese SDK-Bedingungen übertragen keinerlei Eigentums- oder Verwertungsrechte am SDK auf den Publisher.
+
+5.2  Der Publisher gewährleistet, dass er über sämtliche für die rechtmäßige Integration des SDK in die Publisher-App erforderlichen Rechte, Lizenzen und Genehmigungen verfügt und dass diese Integration keine Rechte Dritter verletzt. Ziffer 3.5 der Besonderen Geschäftsbedingungen bleibt unberührt.
+
+--------------------------------------------------------------------------------
+6. Traffic-Integrität
+--------------------------------------------------------------------------------
+
+6.1  Ziffer 3.6 der Besonderen Geschäftsbedingungen (Verbot von Non-Human- und Bot-Traffic) gilt für die Publisher-App entsprechend.
+
+6.2  Untersagt ist insbesondere die künstliche Erzeugung von Ad Requests, Ad Impressions, Klicks oder sonstigen Interaktionen innerhalb der oder über die Publisher-App, der Einsatz automatisierter Tools, Skripte oder Roboter zu diesem Zweck sowie wiederholtes manuelles Anklicken von Werbeanzeigen.
+
+--------------------------------------------------------------------------------
+7. Consent Management (CMP)
+--------------------------------------------------------------------------------
+
+7.1  Voraussetzung für die Nutzung des SDK ist eine funktionsfähige Consent Management Platform (CMP) in der Publisher-App, die datenschutzrechtlich wirksame Einwilligungen der Endnutzer über einen In-App-Consent-Dialog oder ein gleichwertiges Mittel einholt, speichert und verwaltet, bevor Nutzerdaten durch das SDK oder verwandte Technologien erfasst oder verarbeitet werden. Ziffer 3.7 der Besonderen Geschäftsbedingungen gilt entsprechend.
+
+--------------------------------------------------------------------------------
+8. Pflichten bei Vertragsbeendigung
+--------------------------------------------------------------------------------
+
+8.1 Mit Beendigung oder Ablauf der Lizenz aus jedwedem Grund entfernt der Publisher unverzüglich sämtliche SDK-Komponenten sowie sonstige von mso digital bereitgestellte Module und Materialien aus der Publisher-App bzw. beendet deren Nutzung.
+
+8.2 Der Publisher informiert mso digital mindestens neunzig (90) Tage im Voraus schriftlich, sofern er nicht mehr Inhaber oder Betreiber der Publisher-App ist oder zu deren Betrieb rechtlich nicht mehr befugt ist. mso digital ist berechtigt, den Vertrag in Bezug auf die betroffene Publisher-App innerhalb von dreißig (30) Tagen nach Zugang dieser Information ganz oder teilweise zu beenden, sofern nicht schriftlich etwas anderes vereinbart wurde. Bereits entstandene Vergütungsansprüche der Parteien bleiben von der Beendigung unberührt.
+  
