@@ -49,23 +49,23 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SymplrAdsSDK",
-            url: "https://github.com/mso-digital-GmbH-Co-KG/symplr-ios-sandbox/releases/download/0.0.1-test.1/SymplrAdsSDK.xcframework.zip",
-            checksum: "bad2638f1ffb491fe35b7d86796ceed3877a620dad12caeef17d79e0b93260d4"
+            url: "https://github.com/mso-digital-GmbH-Co-KG/symplr-ios-sandbox/releases/download/0.0.1-test.2/SymplrAdsSDK.xcframework.zip",
+            checksum: "50597506be6a247708a7444d6850d643502c4f5e8f1d0f0ebe1ed6ea45fc7cff"
         ),
         .binaryTarget(
             name: "SymplrAdsSourcepoint",
-            url: "https://github.com/mso-digital-GmbH-Co-KG/symplr-ios-sandbox/releases/download/0.0.1-test.1/SymplrAdsSourcepoint.xcframework.zip",
-            checksum: "d284e76c7fd144118a9b269e52bcf39268e1bf68f51de2427d0901a7bc48d929"
+            url: "https://github.com/mso-digital-GmbH-Co-KG/symplr-ios-sandbox/releases/download/0.0.1-test.2/SymplrAdsSourcepoint.xcframework.zip",
+            checksum: "bce4f3896ca6344a233d3cc023d7b31d3a34bf4daab37c2b428e33484b7a1299"
         ),
         .binaryTarget(
             name: "SymplrAdsFundingChoices",
-            url: "https://github.com/mso-digital-GmbH-Co-KG/symplr-ios-sandbox/releases/download/0.0.1-test.1/SymplrAdsFundingChoices.xcframework.zip",
-            checksum: "1fefb80ada1a61c6246b84fe6e37ecacb8e52158f5e1a2d0af6249614e9cbce5"
+            url: "https://github.com/mso-digital-GmbH-Co-KG/symplr-ios-sandbox/releases/download/0.0.1-test.2/SymplrAdsFundingChoices.xcframework.zip",
+            checksum: "9f2641d7b1830d0e4e2771f134d83fd404532a18501a32fa1a9006f60a350333"
         ),
         .binaryTarget(
             name: "SymplrAdsAGMA",
-            url: "https://github.com/mso-digital-GmbH-Co-KG/symplr-ios-sandbox/releases/download/0.0.1-test.1/SymplrAdsAGMA.xcframework.zip",
-            checksum: "75f85bea830c778dfc701cb3fc546856597c6bc24bbbf825f7899a36a5401fa2"
+            url: "https://github.com/mso-digital-GmbH-Co-KG/symplr-ios-sandbox/releases/download/0.0.1-test.2/SymplrAdsAGMA.xcframework.zip",
+            checksum: "4db156f02652e9356c7c1cf64281a0d982d5541bbac7caba3cd9792af4b4eab0"
         ),
 
         .target(
