@@ -153,7 +153,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = "0.0.1-test.2";
+				MARKETING_VERSION = "0.0.1-test.3";
 				PRODUCT_BUNDLE_IDENTIFIER = de.symplr.ads.example;
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
@@ -229,7 +229,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = "0.0.1-test.2";
+				MARKETING_VERSION = "0.0.1-test.3";
 				PRODUCT_BUNDLE_IDENTIFIER = de.symplr.ads.example;
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 5.0;
@@ -329,7 +329,7 @@
 			repositoryURL = "https://github.com/mso-digital-GmbH-Co-KG/symplr-ios-sandbox.git";
 			requirement = {
 				kind = exactVersion;
-				version = "0.0.1-test.2";
+				version = "0.0.1-test.3";
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
